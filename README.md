@@ -24,6 +24,10 @@ List of tools that right now live in my bookmarks
 
 - [HTML to PDF](http://www.athenapdf.com)
 
+## Photos
+
+- [Flickr British Library](https://www.flickr.com/photos/britishlibrary)
+
 ## SVG
 
 - [SVG Icons (tutorial)](http://fvsch.com/code/svg-icons/how-to)

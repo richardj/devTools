@@ -15,6 +15,10 @@ List of tools that right now live in my bookmarks
 
 ## CSS
 
+## Email
+
+- [Bee Free](https://beefree.io)
+
 ## Images
 
 - [TinyPNG](https://tinypng.com)

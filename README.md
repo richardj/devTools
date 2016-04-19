@@ -10,6 +10,7 @@ List of tools that right now live in my bookmarks
 - [Colourcode](http://www.colourco.de)
 - [Name that colour](http://chir.ag/projects/name-that-color)
 - [Colour name & Hue](http://www.color-blindness.com/color-name-hue)
+- [Lolcolors](http://www.lolcolors.com)
 
 
 ## CSS
@@ -31,3 +32,9 @@ List of tools that right now live in my bookmarks
 ## SVG
 
 - [SVG Icons (tutorial)](http://fvsch.com/code/svg-icons/how-to)
+
+## Typography
+
+- [Type Scale](http://type-scale.com)
+- [Glyphr Studio](http://glyphrstudio.com) Font designer
+- [Type rendering](http://typerendering.com)

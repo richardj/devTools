@@ -13,6 +13,10 @@ List of tools that right now live in my bookmarks
 - [Lolcolors](http://www.lolcolors.com)
 
 
+## CMS
+
+- [Pagekit](https://pagekit.com)
+
 ## CSS
 
 - [Bulma](http://bulma.io) CSS framework based on flexbox

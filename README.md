@@ -28,6 +28,10 @@ List of tools that right now live in my bookmarks
 
 ## Javascript
 
+## Logging
+
+- [LogEntries](https://logentries.com)
+
 ## PDF
 
 - [HTML to PDF](http://www.athenapdf.com)

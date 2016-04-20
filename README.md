@@ -41,6 +41,11 @@ List of tools that right now live in my bookmarks
 
 - [HTML to PDF](http://www.athenapdf.com)
 
+
+## Promises
+
+- [Promises explained in Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html) (article)
+
 ## Photos
 
 - [Flickr British Library](https://www.flickr.com/photos/britishlibrary)

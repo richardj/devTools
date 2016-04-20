@@ -30,12 +30,20 @@ List of tools that right now live in my bookmarks
 
 - [TinyPNG](https://tinypng.com)
 - [imgIx](https://www.imgix.com) Image Processing
+- [Convert to base64](https://www.base64-image.de)
 
 ## Javascript
 
 ## Logging
 
 - [LogEntries](https://logentries.com)
+
+## Patterns
+
+Subtle Patterns Bookmarklet
+```
+javascript:(function()%7Bvar%20newscript%3Ddocument.createElement(%27script%27)%3Bnewscript.type%3D%27text/javascript%27%3Bnewscript.async%3Dtrue%3Bnewscript.src%3D%27https://d2ueh8f0j2xol3.cloudfront.net/subtle-patterns-bookmarklet/static/js/all.js%3Fcb%3D%27%20%2B%20Math.random()%3B(document.getElementsByTagName(%27head%27)%5B0%5D%7C%7Cdocument.getElementsByTagName(%27body%27)%5B0%5D).appendChild(newscript)%3B%7D)()%3B]
+```
 
 ## PDF
 

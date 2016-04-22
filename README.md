@@ -26,6 +26,10 @@ List of tools that right now live in my bookmarks
 
 - [Bee Free](https://beefree.io)
 
+## Flexbox
+
+- [Flexbox patterns](http://www.flexboxpatterns.com/home)
+
 ## Images
 
 - [TinyPNG](https://tinypng.com)

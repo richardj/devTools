@@ -30,6 +30,10 @@ List of tools that right now live in my bookmarks
 
 - [Flexbox patterns](http://www.flexboxpatterns.com/home)
 
+## HTML5
+
+- [Alux Framework](afmarchetti.github.io/alux)
+
 ## Images
 
 - [TinyPNG](https://tinypng.com)

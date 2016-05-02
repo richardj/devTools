@@ -70,6 +70,10 @@ javascript:(function()%7Bvar%20newscript%3Ddocument.createElement(%27script%27)%
 - [Flickr British Library](https://www.flickr.com/photos/britishlibrary)
 - [Unsplash](https://unsplash.com)
 
+## Styleguide
+
+- [SourceJS](https://sourcejs.com)
+
 ## SVG
 
 - [SVG Icons (tutorial)](http://fvsch.com/code/svg-icons/how-to)

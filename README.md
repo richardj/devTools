@@ -42,6 +42,8 @@ List of tools that right now live in my bookmarks
 
 ## Javascript
 
+- [Datepicker](http://dbushell.github.io/Pikaday)
+
 ## Logging
 
 - [LogEntries](https://logentries.com)

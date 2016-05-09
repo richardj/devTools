@@ -35,6 +35,11 @@ List of tools that right now live in my bookmarks
 
 - [Alux Framework](afmarchetti.github.io/alux)
 
+## HTTP
+
+- [HTTP statuses](https://httpstatuses.com)
+
+
 ## Images
 
 - [TinyPNG](https://tinypng.com)

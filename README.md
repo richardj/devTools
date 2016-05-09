@@ -11,6 +11,7 @@ List of tools that right now live in my bookmarks
 - [Name that colour](http://chir.ag/projects/name-that-color)
 - [Colour name & Hue](http://www.color-blindness.com/color-name-hue)
 - [Lolcolors](http://www.lolcolors.com)
+- [CSS Color Names](http://www.colors.commutercreative.com/grid)
 
 
 ## CMS

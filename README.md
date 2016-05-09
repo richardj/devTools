@@ -25,6 +25,7 @@ List of tools that right now live in my bookmarks
 ## Email
 
 - [Bee Free](https://beefree.io)
+- [HTML Email and workflow tips](http://blog.mailgun.com/building-html-email-and-workflow-tips)
 
 ## Flexbox
 

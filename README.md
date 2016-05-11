@@ -77,6 +77,7 @@ javascript:(function()%7Bvar%20newscript%3Ddocument.createElement(%27script%27)%
 
 - [Promises explained in Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html) (article)
 - [MDN Promise Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [PromiseJS.org](https://www.promisejs.org)
 
 ## Photos
 

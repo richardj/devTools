@@ -95,6 +95,7 @@ javascript:(function()%7Bvar%20newscript%3Ddocument.createElement(%27script%27)%
 ## SVG
 
 - [SVG Icons (tutorial)](http://fvsch.com/code/svg-icons/how-to)
+- [SVG on the web](https://svgontheweb.com)
 
 ## Typography
 
